@@ -32,7 +32,12 @@ Esta herramienta fue posible gracias al increíble trabajo de los modders de la 
 
 Mods Utilizados
 Multi-CPU Enhance por 4Zeta & Chrador. https://steamcommunity.com/sharedfiles/filedetails/?id=3459875383
+
 BetterFPS por Alree. https://steamcommunity.com/sharedfiles/filedetails/?id=3022543997
+
 Better Car Physics por Neidmare. https://steamcommunity.com/sharedfiles/filedetails/?id=2909035179
+
 Every Texture Optimized por maceleet. https://steamcommunity.com/sharedfiles/filedetails/?id=2812026801
+
 RenderLessZombie por 耄耋. https://steamcommunity.com/sharedfiles/filedetails/?id=2970823607
+
