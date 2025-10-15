@@ -1,4 +1,4 @@
-Solo da click CODE <> 📗 luego Download ZIP
+Solo da click en CODE <> 📗 luego Download ZIP
 
 # UNDERLIFE TOOL - Optimizador para Project Zomboid
 Herramienta todo-en-uno diseñada para facilitar la instalación y gestión de mods de rendimiento para Project Zomboid, optimizada especialmente para la comunidad del servidor Underlife (hosteado por IndifferentBroccoli).
