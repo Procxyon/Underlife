@@ -40,4 +40,5 @@ Better Car Physics por Neidmare. https://steamcommunity.com/sharedfiles/filedeta
 Every Texture Optimized por maceleet. https://steamcommunity.com/sharedfiles/filedetails/?id=2812026801
 
 RenderLessZombie por 耄耋. https://steamcommunity.com/sharedfiles/filedetails/?id=2970823607
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Solo da click en el archivo .exe para comenzar a deescargar la herramienta y disfrutar
