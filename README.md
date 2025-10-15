@@ -3,7 +3,7 @@ Solo da click en CODE <> 📗 luego Download ZIP
 # UNDERLIFE TOOL - Optimizador para Project Zomboid
 Herramienta todo-en-uno diseñada para facilitar la instalación y gestión de mods de rendimiento para Project Zomboid, optimizada especialmente para la comunidad del servidor Underlife (hosteado por IndifferentBroccoli).
 
-Esta herramienta fue creada por Procx para centralizar las mejores optimizaciones de la comunidad y hacerlas accesibles con un solo clic.
+Esta herramienta fue creada por Procx & Ghost para centralizar las mejores optimizaciones de la comunidad y hacerlas accesibles con un solo clic.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✨ Características Principales
 🚀 Instalación en un Clic: Aplica un completo paquete de mods de rendimiento para texturas, renderizado de zombies, físicas de vehículos y más, sin necesidad de buscar en la Workshop.
